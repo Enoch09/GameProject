@@ -1,0 +1,22 @@
+﻿빌드 시작: 2019-09-25 오전 10:27:34
+     1>2 노드의 "C:\Users\Sunrin-08\Desktop\Framework_GameObject\Framework\Framework.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Sunrin-08\Desktop\Framework_GameObject\x64\Debug\Framework.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\Sunrin-08\Desktop\Framework_GameObject\x64\Debug\Framework.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Sunrin-08\Desktop\Framework_GameObject\x64\Debug\Framework.lib" /MACHINE:X64 x64\Debug\Component.obj
+         x64\Debug\D2DApp.obj
+         x64\Debug\Framework.obj
+         x64\Debug\GameObject.obj
+         x64\Debug\main.obj
+         x64\Debug\Renderer.obj
+         x64\Debug\ResourceManager.obj
+         x64\Debug\Scene.obj
+         x64\Debug\Transform.obj
+         x64\Debug\WinApp.obj
+         Framework.vcxproj -> C:\Users\Sunrin-08\Desktop\Framework_GameObject\x64\Debug\Framework.exe
+     1>"C:\Users\Sunrin-08\Desktop\Framework_GameObject\Framework\Framework.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.97
